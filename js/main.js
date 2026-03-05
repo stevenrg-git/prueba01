@@ -23,9 +23,11 @@ var doc=document,flower=doc.querySelector('.flower'),petalPartMarkup='<div class
   // Followers - Cambiar mensajes
   const messages = [
     'Hola Mi Niña Hermosa',
-    'Te quiero mucho',
-    'Gracias por todo',
-    '¡Eres muy especial para mi!',
+    '¡Te quiero mucho!',
+    '¡Gracias por todo!',
+    '¡tu y mi bebé!',
+    '¡son muy especial!',
+    '¡para mi!',
     '¡se que seremos!',
   '¡BUENOS PADRES!',
     
@@ -253,3 +255,4 @@ var doc=document,flower=doc.querySelector('.flower'),petalPartMarkup='<div class
     }
   });
 });
+
