@@ -26,7 +26,7 @@ var doc=document,flower=doc.querySelector('.flower'),petalPartMarkup='<div class
     '¡Te quiero mucho!',
     '¡Gracias por todo!',
     '¡tu y mi bebé!',
-    '¡son muy especial!',
+    '¡son muy especiales!',
     '¡para mi!',
     '¡se que seremos!',
   '¡BUENOS PADRES!',
@@ -255,4 +255,5 @@ var doc=document,flower=doc.querySelector('.flower'),petalPartMarkup='<div class
     }
   });
 });
+
 
